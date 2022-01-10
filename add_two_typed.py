@@ -17,7 +17,7 @@ def add_two(num: NumericType) -> NumericType:
     return num + 2
 
 
-def main():
+def main() -> None:
     """
     Main program entry point
     """
